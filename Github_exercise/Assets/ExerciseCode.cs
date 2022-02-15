@@ -1,7 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 
 public class ExerciseCode : MonoBehaviour
@@ -11,8 +10,8 @@ public class ExerciseCode : MonoBehaviour
     private void Start() {
         Debug.Log("myVariable value: " + myVariable);
         
-        // PassByValue(myVariable);
-        PassByReference(ref myVariable);
+        PassByValue(myVariable);
+        // PassByReference(ref myVariable);
         
         Debug.Log("myVariable value: " + myVariable);
     }
@@ -25,7 +24,7 @@ public class ExerciseCode : MonoBehaviour
 
     public void PassByReference(ref int var)
     {
-        var = var + 10;
+        var = var + 20;
         Debug.Log("Value inside function: " + var);
     }
     
