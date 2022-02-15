@@ -8,12 +8,12 @@ public class ExerciseCode : MonoBehaviour
     int myVariable = 0;
 
     private void Start() {
-        Debug.Log("myVariable value: " + myVariable);
+        Debug.Log("value before calling function: " + myVariable);
         
         PassByValue(myVariable);
         // PassByReference(ref myVariable);
         
-        Debug.Log("myVariable value: " + myVariable);
+        Debug.Log("value after calling function: " + myVariable);
     }
 
     public void PassByValue(int var)
