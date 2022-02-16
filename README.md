@@ -15,7 +15,7 @@ Before the exercise, please make sure that you have installed Unity, [Github Des
 You might want take a look at this [Github Desktop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
 
 ### 2. Pull and push
-- Open the Unity project "Github_exercise" located in the cloned repository.
+- Open the Unity project "Github Unity Exercise" located in the cloned repository.
 - Locate and open the script "ExerciseCode.cs".
 - on **one** computer, edit the code to add the function call "<em>PassByValue(myVariable);</em>" on line 14, as indicated in the code. Save and press play in Unity to observe the result in the console.
 - Go back to Github Desktop. Here you can now see the changes you have made. Write a summary of the change and press "Commit to main". Upload your local changes by pressing the "Push" button at the top.
