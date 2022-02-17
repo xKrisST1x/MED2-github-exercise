@@ -1,6 +1,6 @@
 # MED2 Github Exercises
 
-Before the exercise, please make sure that you have installed Unity, [Github Desktop](https://desktop.github.com), and a source-code editor (such as Visual Studio Code). Also make sure that you have created a Github account on www.Github.com.
+Before the exercise, please make sure that you have installed Unity version 2020.3.28f1, [Github Desktop](https://desktop.github.com), and a source-code editor (such as Visual Studio Code). Also make sure that you have created a Github account on www.Github.com.
 
 ### 1. Fork and clone repository
 - Go together in groups of two.
