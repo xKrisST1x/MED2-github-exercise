@@ -31,4 +31,4 @@ Before the exercise, please make sure that you have installed Unity version 2020
 
 
 ---
-If you want to learn more, you might want take a look at this [GitHub Desktop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
+### If you want to learn more, you might want take a look at this [GitHub Desktop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
