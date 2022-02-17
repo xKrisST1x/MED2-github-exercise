@@ -14,7 +14,7 @@ Before the exercise, please make sure that you have installed Unity version 2020
   - Clone the repository by pressing <img src="https://github.com/malteerasmussen/MED2-github-exercise/blob/main/Code%20button.png" height="25"> and then "Open with GitHub Desktop". If you get a pop-up asking "How are you planning to use this fork?" you should choose "For my own purposes."
 
 ### 2. Pull and push
-- Open the Unity project "GitHub Unity Exercise" located in the cloned repository.
+- Open the Unity project "GitHub Unity Exercise" located in your local repository.
 - Locate and open the script "ExerciseCode.cs".
 - on **one** computer, edit the code to add the function call "<em>PassByValue(myVariable);</em>" on line 14, as indicated in the code. Save and press play in Unity to observe the result in the console.
 - Go back to GitHub Desktop. Here you can now see the changes you have made. Write a summary of the change and press "Commit to main". Upload your local changes by pressing the "Push" button at the top.
