@@ -13,8 +13,6 @@ Before the exercise, please make sure that you have installed Unity version 2020
 - **Both** group members should then:
   - Clone the repository by pressing <img src="https://github.com/malteerasmussen/MED2-github-exercise/blob/main/Code%20button.png" height="25"> and then "Open with GitHub Desktop". If you get a pop-up asking "How are you planning to use this fork?" you should choose "For my own purposes."
 
-You might want take a look at this [GitHub Desktop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
-
 ### 2. Pull and push
 - Open the Unity project "GitHub Unity Exercise" located in the cloned repository.
 - Locate and open the script "ExerciseCode.cs".
@@ -23,3 +21,7 @@ You might want take a look at this [GitHub Desktop Guide](https://docs.github.co
 - Now, on the **other** computer, go to GitHub Desktop and press "Fetch" at the top. Then press "Pull". This fetches and downloads the content on the remote repository and updates your local repository to match the content. Go to the Unity project and open the "ExerciseCode.cs" script to see that you now have the updated code.
 
 ### 3. Merge conflicts
+
+
+
+If you want to learn more, you might want take a look at this [GitHub Desktop Guide](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/creating-your-first-repository-using-github-desktop).
