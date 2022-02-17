@@ -5,7 +5,8 @@ Before the exercise, please make sure that you have installed Unity version 2020
 ### 1. Fork and clone repository
 - Go together in groups of two.
 - **One** person from the group should:
-  - Fork this Github repository by pressing the button in the top right corner: <img src="https://github.com/malteerasmussen/MED2-github-exercise/blob/main/Fork%20button.png" height="25">. This will create a forked (a copy) repository. The forked repository will be called "[your github username]/MED2-github-exercise".
+  - Fork this Github repository by pressing the button in the top right corner: <img src="https://github.com/malteerasmussen/MED2-github-exercise/blob/main/Fork%20button.png" height="25">. This will create a forked (a copy) repository. 
+  The forked repository will be called "[your github username]/MED2-github-exercise".
   - Add the other group member to the forked repository (the one you just created) by going to Settings > Collaborators > Add people.
 - The **other** group member then receives an invitation by email and should:
   - Accept the invitation to join the repository.
